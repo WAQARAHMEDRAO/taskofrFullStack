@@ -1,0 +1,41 @@
+.nav{
+    position: fixed;
+    top: 0px;
+    display: flex;
+    justify-content:space-between;
+    background-color:#1e293b;
+    width: 100%;
+    height: 55px;
+    padding: 3px;
+    text-transform: capitalize;
+}
+button{
+    color: gray;
+    background-color: goldenrod;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+}
+.jTask{
+    margin-top: 15px;
+}
+Link{
+    color: whitesmoke;
+    text-transform: capitalize;
+}
+a{
+    text-transform: capitalize;
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    padding: 4px;
+
+}
+.navitem{
+    display: flex;
+    text-transform: capitalize;
+}
+.btnDiv{
+    margin-top: 80px;
+}

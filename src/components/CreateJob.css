@@ -1,0 +1,22 @@
+.jobDesc{
+    margin-top: 80px;
+
+}
+input{
+    height: 30px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: none;
+    padding: 15px;
+    font-size: 24px;
+}
+.btn{
+    margin-top: 5px;
+    font-size: 24px;
+    color: whitesmoke;
+    background-color: goldenrod;
+    border: none;
+    margin-left: 5px;
+    padding: 5px;
+}
